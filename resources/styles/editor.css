@@ -1,0 +1,31 @@
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #830300;
+	font-size: 1em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+	background-color: white;
+}
+
+.header {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.3em;
+	color: #830300;
+}
+
+#images {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.imgContainer {
+	float: left;
+	width: 50%;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	font-weight: bold;
+}
